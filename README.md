@@ -2,7 +2,7 @@
 A practical portfolio focused on Digital Design, RTL Design, and VLSI. This repository documents Verilog HDL designs developed and verified using AMD Vivado, including simulation, waveform analysis, synthesis, and RTL evaluation. Projects progressively demonstrate practical skills in hardware design, verification, and EDA workflows.
 # VLSI RTL Design & Verilog Portfolio
 
-This repository documents my hands-on journey in **Digital Design, RTL Design, and VLSI** using **Verilog HDL and AMD Vivado**.
+This repository documents my hands-on journey in **Digital Design, RTL Design, and VLSI** using **Verilog HDL and AMD Vivado(2026.1 version)**.
 
 ## Overview
 
